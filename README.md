@@ -75,8 +75,8 @@ I'm a passionate **Full Stack Developer** from **Dhaka, Bangladesh** 🇧🇩 wi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=m-polash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-polash&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=m-polash&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-polash&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 <br/>
 
@@ -86,13 +86,16 @@ I'm a passionate **Full Stack Developer** from **Dhaka, Bangladesh** 🇧🇩 wi
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=m-polash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
+| Project | Tech | Link |
+|---------|------|------|
+| 🛒 E-Commerce Platform | React, Node.js, MongoDB | [View](#) |
+| 📊 Analytics Dashboard | React, D3.js, Express | [View](#) |
+| 💬 Social Media App | MERN, Socket.io, Redux | [View](#) |
+| ✅ Task Management System | React, Firebase, Tailwind | [View](#) |
+| 📝 Blog & CMS Platform | Next.js, PostgreSQL, Prisma | [View](#) |
+| 🔌 RESTful API Service | Python, FastAPI, Docker | [View](#) |
 
 ---
 
